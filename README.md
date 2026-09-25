@@ -2,11 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Adil+Slim;Junior+Software+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+SQL;Always+learning%2C+always+building" alt="Typing intro" />
 
-**London-based graduate moving from marketing and data into software development.**
+**Graduate moving from marketing and data into software development.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-adil--s1.github.io-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://adil-s1.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adil_Slim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-slim)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adilslim816@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=adil-s1&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" />
 
@@ -16,13 +15,12 @@
 
 ## 👨‍💻 About me
 
-- 🎓 **BA (Hons) International Marketing, 2:1**, University of Westminster, plus an exchange year at Toronto Metropolitan University 🇨🇦
+- 🎓 **BA (Hons) International Marketing, 2:1**, University of Westminster
 - 🌐 Teaching myself **web development**. My first project is my [portfolio website](https://adil-s1.github.io), hand-coded in HTML, CSS and JavaScript
 - 🗄️ Certified in **SQL for Marketing Analytics** (Coursera / IDM)
-- 📊 Built **Excel KPI dashboards** and checked data quality as a Data & Reporting intern at **SYZYGY**
+- 📊 Built **Excel KPI dashboards** and checked data quality during a Data & Reporting internship
 - 🔧 Fixed **15+ technical SEO issues** on a live e-commerce site, helping grow traffic by **18%**
-- 🎯 **Looking for:** junior developer, software development technician, QA or apprenticeship roles in the UK
-- ⚡ **Fun fact:** I film and edit my own videos, and I work at Windsor Castle 🏰
+- 🎯 **Looking for:** junior developer, software development technician, QA or apprenticeship roles
 
 ---
 
@@ -50,10 +48,11 @@
 
 ---
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
 | Project | What it is | Built with |
 |---|---|---|
+| 🐍 **[Snake game](https://github.com/adil-s1/snake-game)** | Classic Snake drawn on the Canvas API, with a saved best score, speed-ups, pause and phone swipe controls. **[Play it →](https://adil-s1.github.io/snake-game)** | HTML · CSS · JavaScript |
 | 🌐 **[Portfolio website](https://github.com/adil-s1/adil-s1.github.io)** | My personal site: responsive layout, light/dark mode, typing effect, project filters. **[View it live →](https://adil-s1.github.io)** | HTML · CSS · JavaScript |
 
 ---
@@ -73,6 +72,6 @@
 
 <div align="center">
 
-💬 **Open to opportunities. Let's talk!** [adilslim816@gmail.com](mailto:adilslim816@gmail.com)
+💬 **Open to opportunities. Let's connect on [LinkedIn](https://www.linkedin.com/in/adil-slim)!**
 
 </div>
