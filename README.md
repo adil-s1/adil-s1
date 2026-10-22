@@ -1,10 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090b12,50:4f46e5,100:0d9488&height=170&section=header&text=Adil%20Slim&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Marketing%20%26%20Client%20Support&descSize=18&descAlignY=60&animation=fadeIn" alt="Adil Slim, Marketing & Client Support" />
+<a href="https://adil-s1.github.io"><img width="100%" src="assets/header.svg" alt="Adil Slim, Marketing & Client Support" /></a>
 
 <div align="center">
-
-<a href="https://adil-s1.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=560&lines=Campaign+reporting;Customer+service;Excel+%26+Google+Analytics;Web+projects+in+HTML%2C+CSS+%26+JS" alt="Campaign reporting · Customer service · Excel & Google Analytics" />
-</a>
 
 **Marketing & Client Support | Campaign Reporting · Customer Service · Excel & Google Analytics**
 
@@ -48,7 +44,7 @@ On the side, I build small things for the web.
       <h4>🐍 <a href="https://github.com/adil-s1/snake-game">Snake Game</a></h4>
       <p>Classic Snake on the Canvas API: saved best score, speed-ups, pause, and swipe controls for phones.</p>
       <p>
-        <a href="https://adil-s1.github.io/snake-game"><img src="https://img.shields.io/badge/▶_Play_it-0d9488?style=flat-square" alt="Play" /></a>
+        <a href="https://adil-s1.github.io/snake-game"><img src="https://img.shields.io/badge/Play_it-0d9488?style=flat-square&logo=googleplay&logoColor=white" alt="Play" /></a>
         <a href="https://github.com/adil-s1/snake-game"><img src="https://img.shields.io/badge/View_code-24292f?style=flat-square&logo=github" alt="Code" /></a>
       </p>
       <sub><b>JavaScript · Canvas API · localStorage</b></sub>
@@ -81,4 +77,4 @@ On the side, I build small things for the web.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:4f46e5,100:090b12&height=100&section=footer" alt="" />
+<img width="100%" src="assets/footer.svg" alt="" />
