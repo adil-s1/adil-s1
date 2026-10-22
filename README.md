@@ -26,12 +26,16 @@ On the side, I build small things for the web.
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <a href="https://adil-s1.github.io/#skills"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /></a>
+  <a href="https://adil-s1.github.io/#skills"><img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" /></a>
+  <a href="https://adil-s1.github.io/#skills"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="44" alt="HTML, CSS, JavaScript, Git, GitHub" />
+  <a href="https://adil-s1.github.io/#skills"><img src="https://skillicons.dev/icons?i=html" height="44" alt="HTML" /></a>
+  <a href="https://adil-s1.github.io/#skills"><img src="https://skillicons.dev/icons?i=css" height="44" alt="CSS" /></a>
+  <a href="https://adil-s1.github.io/#skills"><img src="https://skillicons.dev/icons?i=js" height="44" alt="JavaScript" /></a>
+  <a href="https://adil-s1.github.io/#skills"><img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" /></a>
+  <a href="https://github.com/adil-s1"><img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" /></a>
 </p>
 
 ---
@@ -77,4 +81,4 @@ On the side, I build small things for the web.
 
 </div>
 
-<img width="100%" src="assets/footer.svg" alt="" />
+<a href="https://adil-s1.github.io"><img width="100%" src="assets/footer.svg" alt="Visit my portfolio" /></a>
